@@ -1,0 +1,156 @@
+.header-nav {
+  background-color: #4b2e83;
+  color: #b7a57a;
+  font-size: 1em;
+  font-weight: bolder;
+  padding:1em;
+}
+
+.header-link {
+  color: #b7a57a !important;
+  text-decoration: none;
+}
+
+.header-link:selected {
+  color: #b7a57a !important;
+}
+
+.header-link:visited {
+  color: #b7a57a !important;
+}
+
+.header-image {
+  float: right;
+  padding: 1em;
+}
+
+.app {
+  background-color: wheat;
+}
+
+.footer-nav {
+  background-color: #4b2e83;
+  color: #b7a57a;
+  font-size: 1em;
+  font-weight: bolder;
+  padding:1em;
+}
+
+.footer-link {
+  color: #b7a57a !important;
+  text-decoration: none;
+}
+
+.navLinkClass {
+  color: #4b2e83;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+.navLinkClass:hover{
+  color: red;
+  font-size: 1.75em;
+}
+
+.park-ul {
+  list-style-type: none;
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.selectedPark {
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+  text-align: center;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.park-img {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  text-align: center;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.item-div {
+  text-align: center;
+}
+
+.item-h3 {
+  margin: 0;
+  padding: 5px;
+}
+
+.select-item-h3 {
+  margin: 0;
+  padding: 5px;
+  color: #4b2e83;
+  font-weight: bolder;
+}
+
+.select-item-p {
+  margin: 0;
+  padding: 5px;
+  color: #4b2e83;
+}
+
+.item-h2 {
+  margin: 0;
+  padding: 5px;
+}
+
+.park-img-main {
+  width: 45%;
+  margin: auto;
+}
+
+.park-map-main {
+  width: 45%;
+  margin: auto;
+}
+
+.iFrame-style {
+  width: 300px;
+  height: 300px;
+  border:0
+}
+
+.comment-form {
+  margin: 0;
+  padding: 5px;
+}
+
+.main-div {
+  display: flex;
+}
+
+.main-div1 {
+  width: 75%;
+}
+
+.main-div2 {
+  width: 25%;
+  border-left: solid 2px #4b2e83;
+}
+
+.appClass {
+  text-align: center;
+}
+
+.aside-link {
+  color: #4b2e83;
+  text-decoration: none;
+}
+
+.aside-link:visited {
+  color: #4b2e83;
+}
+
+.aside-link:hover{
+  color: red !important;
+  font-size: 1.25em;
+}
